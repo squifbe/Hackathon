@@ -1,4 +1,4 @@
-# Hackathon 1
+# Hackathon 
 - Canart Florentin
 - David Julien
 - Habets Norah
